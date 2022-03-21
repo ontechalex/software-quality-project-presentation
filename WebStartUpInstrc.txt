@@ -1,0 +1,13 @@
+Click on [Codev]
+Copy [https://github.com/AtharshanKennedy/tech-interview-handbook.git]  
+Go to any folder on your computer
+Right Click in that folder and select [Git Bash Here]
+	- if you dont have Git Intsall it [https://git-scm.com/download/win] 
+In the terminal type these command:
+	- git clone https://github.com/AtharshanKennedy/tech-interview-handbook.git
+	- cd tech*
+	- git status
+	- yarn <--(this will install)
+	- cd web*
+	- yarn upgrade @docusaurus/core@latest @docusaurus/preset-classic@latest <-(might take 6 mins)
+	- yarn start <-(website might take 2 or 3 mins to lanuch localhost:3000)
