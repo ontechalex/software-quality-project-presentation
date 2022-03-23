@@ -4,10 +4,27 @@ Go to any folder on your computer
 Right Click in that folder and select [Git Bash Here]
 	- if you dont have Git Intsall it [https://git-scm.com/download/win] 
 In the terminal type these command:
-	- git clone https://github.com/AtharshanKennedy/tech-interview-handbook.git
-	- cd tech*
-	- git status
+	- git clone -b master https://github.com/AtharshanKennedy/tech-interview-handbook.git Project
+	- cd Pro*
+	- git fetch origin gh-pages:gh-pages
+	- git branch
+	- git checkout gh-pages
+	- git checkout master
+		- you will notice that when switch branches the contents of the folder change in file exploerer
 	- yarn <--(this will install)
 	- cd web*
 	- yarn upgrade @docusaurus/core@latest @docusaurus/preset-classic@latest <-(might take 6 mins)
+		- alt : yarn upgrade docusaurus --latest
 	- yarn start <-(website might take 2 or 3 mins to lanuch localhost:3000)
+For editing and switch branchs:
+	- in gh-pages as an example
+		- Lets say you open index.html in introduction and you edit something and saved it
+		- after saving it stay in ../Project in the git bash terminal and do this
+			- git add introduction/index.html
+			- git commit -m "<Any text can go here, but prob best to a short one liner description of what you did>"
+			- git checkout master<-- once back in master go to ../Project/website in master to use "yarn start"
+		   - alt: you could be in ../Project/introduction:
+			- git add .
+			- git commit -m "<same as above>"<-- might need to be in ../Project
+			- move using "cd .."  back to ../Project and use "git checkout master" and travers back to ../Project/website
+			- yarn start 
