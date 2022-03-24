@@ -15,7 +15,15 @@ In the terminal type these command:
 	- cd web*
 	- yarn upgrade @docusaurus/core@latest @docusaurus/preset-classic@latest <-(might take 6 mins)
 		- alt : yarn upgrade docusaurus --latest
+	- yarn build
 	- yarn start <-(website might take 2 or 3 mins to lanuch localhost:3000)
+For editing the website:
+	- unfortunatlly you can't do anything with the html files in (gh-pages) branch
+	- but the .md files in (master) can:
+	- located in ../Project/contents while being in the (master) branch 
+	- while the website locally is running any chnages made to .md files after saving it in a IDE will auto update the website
+
+###-----Do not follow this----VVVVVV 
 For editing and switch branchs:
 	- in gh-pages as an example
 		- Lets say you open index.html in introduction and you edit something and saved it
