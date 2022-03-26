@@ -43,3 +43,13 @@ import AlgorithmCourses from './\_courses/AlgorithmCourses.md'
 | Course | Reviews | Duration | Price | Contents |
 | :-- | --- | --- | --- | --- |
 | [Ace the C++ Coding Interview](https://www.educative.io/path/ace-cpp-coding-interview?aff=x23W) | 4.6/5 | 60h | $ | Basic data structures and algorithms + practice. Also includes **system design**, concurrency and behavioral contents |
+
+##
+<nav class="pagination-nav docusaurus-mt-lg" aria-label="Docs pages navigation">
+    <div class="pagination-nav__item">
+        <a class="pagination-nav__link root_sa74" href="/study-and-practice/">
+            <div class="pagination-nav__sublabel">Last page</div>
+            <div class="pagination-nav__label"><span class="arrow_Btdn">←</span>Study and practice</div>
+        </a>
+    </div>
+</nav>
