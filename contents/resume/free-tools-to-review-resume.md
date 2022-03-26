@@ -34,3 +34,13 @@ Simply copy the content from your resume and paste it into a plain text document
 - There are points missing from your original resume
 - Characters are displaying incorrectly in plain text
 - Sections are disorganized
+
+##
+<nav class="pagination-nav docusaurus-mt-lg" aria-label="Docs pages navigation">
+    <div class="pagination-nav__item">
+        <a class="pagination-nav__link root_sa74" href="/resume/optimize-resume/">
+            <div class="pagination-nav__sublabel">Last page</div>
+            <div class="pagination-nav__label"><span class="arrow_Btdn">←</span>Optimize your resume</div>
+        </a>
+    </div>
+</nav>
