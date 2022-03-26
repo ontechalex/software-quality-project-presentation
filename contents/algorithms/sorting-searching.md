@@ -26,3 +26,13 @@ When a given sequence is in a sorted order (be it ascending or descending), usin
 import AlgorithmCourses from '../\_courses/AlgorithmCourses.md'
 
 <AlgorithmCourses />
+
+##
+<nav class="pagination-nav docusaurus-mt-lg" aria-label="Docs pages navigation">
+    <div class="pagination-nav__item">
+        <a class="pagination-nav__link root_sa74" href="/algorithms/recursion/">
+            <div class="pagination-nav__sublabel">Last page</div>
+            <div class="pagination-nav__label"><span class="arrow_Btdn">←</span>Recursion</div>
+        </a>
+    </div>
+</nav>
