@@ -134,3 +134,12 @@ These questions are intended for senior level management, such as CEO, CTO, VPs.
 - [Questions I'm asking in interviews 2017](https://cternus.net/blog/2017/10/10/questions-i-m-asking-in-interviews-2017/)
 - [What are good questions to ask during a software developer interview when asked "Do you have any questions now?"](https://www.quora.com/What-are-good-questions-to-ask-during-a-software-developer-interview-when-asked-do-you-have-any-questions-now/answer/John-L-Miller)
 - [What are some good questions to ask when interviewing someone for a manager position?](https://www.quora.com/What-are-some-good-questions-to-ask-when-interviewing-someone-for-a-manager-position/answer/David-Seidman)
+##
+<nav class="pagination-nav docusaurus-mt-lg" aria-label="Docs pages navigation">
+    <div class="pagination-nav__item">
+        <a class="pagination-nav__link root_sa74" href="/psychological-tricks/">
+            <div class="pagination-nav__sublabel">Last page</div>
+            <div class="pagination-nav__label"><span class="arrow_Btdn">←</span>Psychological tricks</div>
+        </a>
+    </div>
+</nav>
