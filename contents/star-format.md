@@ -45,3 +45,13 @@ Through the above, experienced interviewers can extract the following qualities 
 - **Project management** - Able to unblock the project by changing approaches midway to great effectiveness
 - **Conflict management** - Explain to parties involved in the conflict and make sure no hard feelings remain
 - **Hold people accountable** - Get a confirmation date as to when the designer can produce the mockups and hold him accountable
+
+##
+<nav class="pagination-nav docusaurus-mt-lg" aria-label="Docs pages navigation">
+    <div class="pagination-nav__item">
+        <a class="pagination-nav__link root_sa74" href="/behavioral-interview/">
+            <div class="pagination-nav__sublabel">Last page</div>
+            <div class="pagination-nav__label"><span class="arrow_Btdn">←</span>Overview</div>
+        </a>
+    </div>
+</nav>
