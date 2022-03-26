@@ -40,3 +40,13 @@ System design content is still work-in-progress, but the following are some reso
 ## Books
 
 - [System Design Interview – An insider's guide, Second Edition](https://www.amazon.com/System-Design-Interview-insiders-Second/dp/B08CMF2CQF) - Beginner friendly resource to learn about system design, the content is easy to read and understand.
+
+##
+<nav class="pagination-nav docusaurus-mt-lg" aria-label="Docs pages navigation">
+    <div class="pagination-nav__item">
+        <a class="pagination-nav__link root_sa74" href="/mock-interviews/">
+            <div class="pagination-nav__sublabel">Last page</div>
+            <div class="pagination-nav__label"><span class="arrow_Btdn">←</span>Mock interviews</div>
+        </a>
+    </div>
+</nav>
