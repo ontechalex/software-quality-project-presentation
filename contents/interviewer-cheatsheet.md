@@ -74,3 +74,13 @@ This is a straight-to-the-point, distilled list of technical interview Do's and 
 |     | Things                                                    |
 | --- | --------------------------------------------------------- |
 | ✅  | Write feedback as soon as possible to not forget details. |
+
+##
+<nav class="pagination-nav docusaurus-mt-lg" aria-label="Docs pages navigation">
+    <div class="pagination-nav__item">
+        <a class="pagination-nav__link root_sa74" href="/algorithms/trie/">
+            <div class="pagination-nav__sublabel">Last page</div>
+            <div class="pagination-nav__label"><span class="arrow_Btdn">←</span>Trie</div>
+        </a>
+    </div>
+</nav>
