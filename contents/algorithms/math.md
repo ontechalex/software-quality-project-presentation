@@ -35,3 +35,12 @@ If the question asks to implement an operator such as power, squareroot or divis
 import AlgorithmCourses from '../\_courses/AlgorithmCourses.md'
 
 <AlgorithmCourses />
+##
+<nav class="pagination-nav docusaurus-mt-lg" aria-label="Docs pages navigation">
+    <div class="pagination-nav__item">
+        <a class="pagination-nav__link root_sa74" href="/algorithms/linked-list/">
+            <div class="pagination-nav__sublabel">Last page</div>
+            <div class="pagination-nav__label"><span class="arrow_Btdn">←</span>Linked list</div>
+        </a>
+    </div>
+</nav>
