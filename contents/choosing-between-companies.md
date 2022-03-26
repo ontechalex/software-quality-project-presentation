@@ -91,3 +91,13 @@ Google is famous for being a company for moving slower and a place where people 
 ## Transfers and mobility
 
 Does the company have offices around the globe where employees can possibly relocate to? This is obviously out of the question for smaller companies where there is only one headquarters, but some companies allow employees to be remote and some are even entirely remote! Meta, Google, Apple, and Stripe are examples of companies which have global presence and regional headquarters. At Meta and Google, mobility is extremely high given there are large engineering offices all across US, in London, Tel Aviv, and more recently, in Singapore. One of my managers at Meta has worked at **four** offices! Personally, I relocated from Meta/Facebook Menlo Park to Meta/Facebook Singapore right before COVID hit and a few of my Meta/Googler friends have done similar moves, some even moving from Singapore to the US.
+
+##
+<nav class="pagination-nav docusaurus-mt-lg" aria-label="Docs pages navigation">
+    <div class="pagination-nav__item">
+        <a class="pagination-nav__link root_sa74" href="/negotiation-rules/">
+            <div class="pagination-nav__sublabel">Last page</div>
+            <div class="pagination-nav__label"><span class="arrow_Btdn">←</span>Ten rules of negotiation</div>
+        </a>
+    </div>
+</nav>
