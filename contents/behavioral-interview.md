@@ -28,3 +28,13 @@ I really don't think one needs to attend a course on behavioral interviews, but 
 
 - ["Behavioral Interviews" by Exponent](https://www.tryexponent.com/courses/behavioral?ref=techinterviewhandbook) - While Exponent also has courses on technical content, what really makes them stand out from the other interview preparation platform is their availability of content for non-software engineering roles such as Product Management and Product Marketing. Their behavioral interview course is a mix of videos (by the Exponent CEO himself!) and text, going through the most common questions and imparting you with techniques to help you ace the interview. To top it off, they also have an interview question bank for behavioral questions with responses from the platform's helpful community. While the subscription might be a little pricey for just the behavioral interviews content, they also offer quality technical content for [System Design](https://www.tryexponent.com/courses/system-design-interview?ref=techinterviewhandbook), [Data Structures](https://www.tryexponent.com/courses/swe-practice?ref=techinterviewhandbook) and [Algorithms](https://www.tryexponent.com/courses/algorithms?ref=techinterviewhandbook). The convenience of a one-stop platform which covers all aspects of technical interview preparation is very enticing.
 - ["Grokking the Behavioral Interview" by Educative](https://www.educative.io/courses/grokking-the-behavioral-interview?aff=x23W) - As usual, this course by Educative is text-based and they believe that text-based courses are the more efficient than video courses. One thing that stands out about this course is that they teach you **patterns** for behavioral interviews, not just about memorizing questions and preparing answers.
+
+##
+<nav class="pagination-nav docusaurus-mt-lg" aria-label="Docs pages navigation">
+    <div class="pagination-nav__item">
+        <a class="pagination-nav__link root_sa74" href="/system-design/">
+            <div class="pagination-nav__sublabel">Last page</div>
+            <div class="pagination-nav__label"><span class="arrow_Btdn">←</span>System design interviews</div>
+        </a>
+    </div>
+</nav>
