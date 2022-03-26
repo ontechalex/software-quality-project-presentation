@@ -65,3 +65,13 @@ When a question involves a BST, the interviewer is usually looking for a solutio
 import AlgorithmCourses from '../\_courses/AlgorithmCourses.md'
 
 <AlgorithmCourses />
+
+##
+<nav class="pagination-nav docusaurus-mt-lg" aria-label="Docs pages navigation">
+    <div class="pagination-nav__item">
+        <a class="pagination-nav__link root_sa74" href="/algorithms/string/">
+            <div class="pagination-nav__sublabel">Last page</div>
+            <div class="pagination-nav__label"><span class="arrow_Btdn">←</span>String</div>
+        </a>
+    </div>
+</nav>
