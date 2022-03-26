@@ -21,3 +21,13 @@ To find out if two circles overlap, check that the distance between the two cent
 import AlgorithmCourses from '../\_courses/AlgorithmCourses.md'
 
 <AlgorithmCourses />
+
+##
+<nav class="pagination-nav docusaurus-mt-lg" aria-label="Docs pages navigation">
+    <div class="pagination-nav__item">
+        <a class="pagination-nav__link root_sa74" href="/algorithms/dynamic-programming/">
+            <div class="pagination-nav__sublabel">Last page</div>
+            <div class="pagination-nav__label"><span class="arrow_Btdn">←</span>Dynamic programming</div>
+        </a>
+    </div>
+</nav>
