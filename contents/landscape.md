@@ -91,3 +91,13 @@ _It's important to note that the above are just general trends and exceptions ca
 | Types of Engineering Work | Depends on size of office/company | Both product and infra (building new programming languages, frameworks, and tools) |
 
 _Singapore salary data taken from [NUS GES 2020](https://www.moe.gov.sg/-/media/files/post-secondary/ges-2020/web-publication-nus-ges-2020.pdf)._
+
+##
+<nav class="pagination-nav docusaurus-mt-lg" aria-label="Docs pages navigation">
+    <div class="pagination-nav__item">
+        <a class="pagination-nav__link root_sa74" href="/introduction/">
+            <div class="pagination-nav__sublabel">Last page</div>
+            <div class="pagination-nav__label"><span class="arrow_Btdn">←</span>Introduction</div>
+        </a>
+    </div>
+</nav>
