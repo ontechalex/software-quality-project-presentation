@@ -78,3 +78,13 @@ The key to interview success is practice, practice and more practice!
 - This [interviews repository](https://github.com/kdn251/interviews) by Kevin Naughton Jr. served as a quick refresher for me.
 - The Medium publication [basecs](https://medium.com/basecs) by [Vaidehi Joshi](https://medium.com/@vaidehijoshi) is also a great and light-hearted resource to recap on the various data structures and algorithms.
 - You can also find implementations of common data structures and algorithms using various popular languages at [TheAlgorithms](https://thealgorithms.github.io/).
+
+##
+<nav class="pagination-nav docusaurus-mt-lg" aria-label="Docs pages navigation">
+    <div class="pagination-nav__item">
+        <a class="pagination-nav__link root_sa74" href="/picking-a-language/">
+            <div class="pagination-nav__sublabel">Last page</div>
+            <div class="pagination-nav__label"><span class="arrow_Btdn">←</span>Picking a language</div>
+        </a>
+    </div>
+</nav>
