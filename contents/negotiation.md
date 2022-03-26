@@ -61,3 +61,13 @@ Get paid more. Receive salary negotiation advice from [**Moonchaser**](https://w
 ## Negotiation courses
 
 If you are not keen on paying for negotiation services and are a fan of courses, here's something for you - the [Grokking Comp Negotiation in Tech](https://www.educative.io/courses/grokking-comp-negotiation?aff=x23W) course, a text-based course where you can get information on each aspect of negotiation. **Disclaimer: I haven't tried this course before.**
+
+##
+<nav class="pagination-nav docusaurus-mt-lg" aria-label="Docs pages navigation">
+    <div class="pagination-nav__item">
+        <a class="pagination-nav__link root_sa74" href="/understanding-compensation/">
+            <div class="pagination-nav__sublabel">Last page</div>
+            <div class="pagination-nav__label"><span class="arrow_Btdn">←</span>Understanding-compensation</div>
+        </a>
+    </div>
+</nav>
