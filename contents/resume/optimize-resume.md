@@ -69,3 +69,13 @@ While optimizing for every application is ideal, you can generalize your resume 
 :::
 
 <!-- I have also prepared a list of fail-safe keywords you can use to pass most ATS screeners, segmented by type and seniority of software engineer. You can find it [here]. -->
+
+##
+<nav class="pagination-nav docusaurus-mt-lg" aria-label="Docs pages navigation">
+    <div class="pagination-nav__item">
+        <a class="pagination-nav__link root_sa74" href="/resume/write-effective-content/">
+            <div class="pagination-nav__sublabel">Last page</div>
+            <div class="pagination-nav__label"><span class="arrow_Btdn">←</span>Write effective resume content</div>
+        </a>
+    </div>
+</nav>
