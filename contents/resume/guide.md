@@ -32,3 +32,13 @@ From my experience as a FAANG interviewer as well as my discussions with countle
 To maximize your chances of being shortlisted, consider getting your resume reviewed by [FAANG Tech Leads - a team of ex-FAANG hiring managers](https://www.faangtechleads.com?utm_source=techinterviewhandbook&utm_medium=referral&utm_content=resume_guide&aff=1e80c401fe7e2). It is currently **70% off as part of a limited time promotion**.
 
 :::
+
+##
+<nav class="pagination-nav docusaurus-mt-lg" aria-label="Docs pages navigation">
+    <div class="pagination-nav__item">
+        <a class="pagination-nav__link root_sa74" href="/landscape/">
+            <div class="pagination-nav__sublabel">Last page</div>
+            <div class="pagination-nav__label"><span class="arrow_Btdn">←</span>Landscape</div>
+        </a>
+    </div>
+</nav>
