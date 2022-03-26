@@ -150,3 +150,13 @@ Only include achievements related to the job application and try to quantify you
 Example
 
 > 2016 | Best All-Round Product out of 50 teams | Facebook Hackathon
+
+##
+<nav class="pagination-nav docusaurus-mt-lg" aria-label="Docs pages navigation">
+    <div class="pagination-nav__item">
+        <a class="pagination-nav__link root_sa74" href="/resume/ats-proof-template/">
+            <div class="pagination-nav__sublabel">Last page</div>
+            <div class="pagination-nav__label"><span class="arrow_Btdn">←</span>Set up your ATS-proof resume template</div>
+        </a>
+    </div>
+</nav>
