@@ -107,3 +107,13 @@ Prepare a self introduction that follows the following outline (inspired by "Cra
   - Lyft was Grab's sister company! In fact they even had a partnership in the past. Most Lyft engineers would have heard of Grab before and mentioning this catches their attention.
 - "I built the project with another engineer over the period of 4 months on a React/Redux and Golang stack."
   - Acknowledge that you work with others. Building a non-trivial system with just 2 people in 3 months is quite good for a non-trivial system. Lyft also uses Golang for their high performance systems.
+
+##
+<nav class="pagination-nav docusaurus-mt-lg" aria-label="Docs pages navigation">
+    <div class="pagination-nav__item">
+        <a class="pagination-nav__link root_sa74" href="/interview-formats-top-companies/">
+            <div class="pagination-nav__sublabel">Last page</div>
+            <div class="pagination-nav__label"><span class="arrow_Btdn">←</span>Top companies</div>
+        </a>
+    </div>
+</nav>
