@@ -24,3 +24,13 @@ If you require the top _k_ elements use a Min Heap of size _k_. Iterate through 
 import AlgorithmCourses from '../\_courses/AlgorithmCourses.md'
 
 <AlgorithmCourses />
+
+##
+<nav class="pagination-nav docusaurus-mt-lg" aria-label="Docs pages navigation">
+    <div class="pagination-nav__item">
+        <a class="pagination-nav__link root_sa74" href="/algorithms/hash-table/">
+            <div class="pagination-nav__sublabel">Last page</div>
+            <div class="pagination-nav__label"><span class="arrow_Btdn">←</span>Hash Table</div>
+        </a>
+    </div>
+</nav>
