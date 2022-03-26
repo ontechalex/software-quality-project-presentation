@@ -28,3 +28,12 @@ Here are some psychological tricks that will help you ace a job interview.
 ###### References
 
 - [Business Insider](http://www.businessinsider.com/psychological-tricks-to-ace-job-interview-2015-11)
+##
+<nav class="pagination-nav docusaurus-mt-lg" aria-label="Docs pages navigation">
+    <div class="pagination-nav__item">
+        <a class="pagination-nav__link root_sa74" href="/behavioral-questions/">
+            <div class="pagination-nav__sublabel">Last page</div>
+            <div class="pagination-nav__label"><span class="arrow_Btdn">←</span>Common questions</div>
+        </a>
+    </div>
+</nav>
