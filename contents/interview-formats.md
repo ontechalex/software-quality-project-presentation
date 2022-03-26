@@ -53,3 +53,13 @@ The onsite stage usually consists of multiple rounds (coding, system design, beh
 For onsite interviews at smaller (non-public) companies, most will allow (and prefer) that you use your own laptop. Hence it is important that you prepare your development environment in advance.
 
 If the company provides lunch, you might also have a lunch session with an employee where you can find out more about the company culture.
+
+##
+<nav class="pagination-nav docusaurus-mt-lg" aria-label="Docs pages navigation">
+    <div class="pagination-nav__item">
+        <a class="pagination-nav__link root_sa74" href="/resume/final-tips/">
+            <div class="pagination-nav__sublabel">Last page</div>
+            <div class="pagination-nav__label"><span class="arrow_Btdn">←</span>Final Tips</div>
+        </a>
+    </div>
+</nav>
