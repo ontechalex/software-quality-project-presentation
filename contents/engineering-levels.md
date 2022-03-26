@@ -49,3 +49,13 @@ _Work in progress_
 
 - [Software Engineering Salaries at Google](https://careerkarma.com/blog/software-engineering-salary-google/)
 - [Dropbox Engineering Career Framework](https://dropbox.github.io/dbx-career-framework/overview.html)
+
+##
+<nav class="pagination-nav docusaurus-mt-lg" aria-label="Docs pages navigation">
+    <div class="pagination-nav__item">
+        <a class="pagination-nav__link root_sa74" href="/choosing-between-companies/">
+            <div class="pagination-nav__sublabel">Last page</div>
+            <div class="pagination-nav__label"><span class="arrow_Btdn">←</span>Choosing between companies</div>
+        </a>
+    </div>
+</nav>
