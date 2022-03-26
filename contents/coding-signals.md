@@ -108,3 +108,13 @@ Refer to the [Meta/Facebook's Onsite Interview Guide](https://www.metacareers.co
 
 - 👍 Identified and corrected bugs in the code (where applicable)
 - 👎 Not able to discover and fix bugs even after being hinted/prompted
+
+##
+<nav class="pagination-nav docusaurus-mt-lg" aria-label="Docs pages navigation">
+    <div class="pagination-nav__item">
+        <a class="pagination-nav__link root_sa74" href="/cheatsheet/">
+            <div class="pagination-nav__sublabel">Last page</div>
+            <div class="pagination-nav__label"><span class="arrow_Btdn">←</span>Cheatsheet</div>
+        </a>
+    </div>
+</nav>
