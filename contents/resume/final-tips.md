@@ -25,3 +25,13 @@ The ATS also allows recruiters to see all the roles you have applied to at their
 ---
 
 And that is it from me in terms of resume preparation - hope this helps! If you have any other tips you would like to share with others on Tech Interview Handbook, do reach out to me at contact@techinterviewhandbook.org or create a new [GitHub discussion item](https://github.com/yangshun/tech-interview-handbook/discussions).
+
+##
+<nav class="pagination-nav docusaurus-mt-lg" aria-label="Docs pages navigation">
+    <div class="pagination-nav__item">
+        <a class="pagination-nav__link root_sa74" href="/resume/free-tools-to-review-resume/">
+            <div class="pagination-nav__sublabel">Last page</div>
+            <div class="pagination-nav__label"><span class="arrow_Btdn">←</span>Free tools to review your resume</div>
+        </a>
+    </div>
+</nav>
