@@ -113,3 +113,13 @@ This is a straight-to-the-point, distilled list of technical interview Do's and 
 | --- | --- |
 | ✅ | Record the interview questions and answers down as these can be useful for future reference. |
 | ⚠️ | Send a follow up email to your interviewer(s) thanking them for their time and the opportunity to interview with them. |
+
+##
+<nav class="pagination-nav docusaurus-mt-lg" aria-label="Docs pages navigation">
+    <div class="pagination-nav__item">
+        <a class="pagination-nav__link root_sa74" href="/during-coding-interview/">
+            <div class="pagination-nav__sublabel">Last page</div>
+            <div class="pagination-nav__label"><span class="arrow_Btdn">←</span>During the coding interview</div>
+        </a>
+    </div>
+</nav>
