@@ -63,3 +63,13 @@ import AlgorithmCourses from '../\_courses/AlgorithmCourses.md'
 - http://blog.triplebyte.com/how-to-pass-a-programming-interview
 - http://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/
 - https://medium.com/basecs -->
+
+##
+<nav class="pagination-nav docusaurus-mt-lg" aria-label="Docs pages navigation">
+    <div class="pagination-nav__item">
+        <a class="pagination-nav__link root_sa74" href="/engineering-levels/">
+            <div class="pagination-nav__sublabel">Last page</div>
+            <div class="pagination-nav__label"><span class="arrow_Btdn">←</span>Engineering levels</div>
+        </a>
+    </div>
+</nav>
