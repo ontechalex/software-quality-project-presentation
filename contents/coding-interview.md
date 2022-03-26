@@ -81,3 +81,13 @@ You have been working for a few years now and are a little rusty with the less c
 1. Interview successfully to get the job
 1. [Negotiate](./negotiation.md) the offer!
 1. Check out tips on [choosing between different offers from companies](./choosing-between-companies.md)
+
+##
+<nav class="pagination-nav docusaurus-mt-lg" aria-label="Docs pages navigation">
+    <div class="pagination-nav__item">
+        <a class="pagination-nav__link root_sa74" href="/self-introduction/">
+            <div class="pagination-nav__sublabel">Last page</div>
+            <div class="pagination-nav__label"><span class="arrow_Btdn">←</span>Self Introduction</div>
+        </a>
+    </div>
+</nav>
