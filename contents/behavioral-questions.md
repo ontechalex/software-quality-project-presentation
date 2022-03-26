@@ -188,3 +188,13 @@ Source: [Glassdoor](https://www.glassdoor.com/Interview/Stripe-Interview-Questio
 - What would your previous boss say your biggest strength was?
 
 Source: [Glassdoor](https://www.glassdoor.com/Interview/Twitter-Interview-Questions-E100569.htm)
+
+##
+<nav class="pagination-nav docusaurus-mt-lg" aria-label="Docs pages navigation">
+    <div class="pagination-nav__item">
+        <a class="pagination-nav__link root_sa74" href="/star-format/">
+            <div class="pagination-nav__sublabel">Last page</div>
+            <div class="pagination-nav__label"><span class="arrow_Btdn">←</span>STAR format</div>
+        </a>
+    </div>
+</nav>
