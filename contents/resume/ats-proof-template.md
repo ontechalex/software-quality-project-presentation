@@ -71,3 +71,12 @@ This is the order which has worked well for me and recommended by recruiters:
 Never add symbols to your headers to avoid ATS readability issues.
 
 :::
+##
+<nav class="pagination-nav docusaurus-mt-lg" aria-label="Docs pages navigation">
+    <div class="pagination-nav__item">
+        <a class="pagination-nav__link root_sa74" href="/resume/guide/">
+            <div class="pagination-nav__sublabel">Last page</div>
+            <div class="pagination-nav__label"><span class="arrow_Btdn">←</span>Step-by-step resume guide</div>
+        </a>
+    </div>
+</nav>
