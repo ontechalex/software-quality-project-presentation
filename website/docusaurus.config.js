@@ -8,6 +8,8 @@ module.exports = {
   organizationName: 'yangshun',
   projectName: 'tech-interview-handbook',
   themeConfig: {
+    hideableSidebar: true,
+    autoCollapseSidebarCategories: true,
     announcementBar: {
       id: 'algomonster', // Increment on change
       content: `Stop the grind and study with a plan! Developed by Google engineers, 
@@ -136,7 +138,13 @@ module.exports = {
         {
           title: 'More',
           items: [
-            {label: 'Advertise', href: '/advertise'},
+            {
+              label: 'Resource Page',
+              href: '/resource-page',
+            },
+            {
+              label: 'Advertise', 
+              href: '/advertise'},
             {
               label: 'Contact us',
               href: 'mailto:contact@techinterviewhandbook.org',
@@ -166,6 +174,8 @@ module.exports = {
           showLastUpdateTime: true,
         },
         theme: {
+          hideableSidebar: true,
+          autoCollapseSidebarCategories: true,
           customCss: require.resolve('./src/css/custom.css'),
         },
         gtag: {

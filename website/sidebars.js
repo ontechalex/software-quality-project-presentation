@@ -16,7 +16,7 @@ module.exports = {
     {
       type: 'category',
       label: 'Step 2: Ace the interview',
-      collapsed: false,
+      collapsed: true,
       items: [
         {
           'Interview formats': [
